@@ -1,0 +1,72 @@
+# WordPress
+/wp-admin/
+/wp-content/
+/wp-includes/
+/index.php
+/license.txt
+/readme.html
+/wp-activate.php
+/wp-blog-header.php
+/wp-comments-post.php
+/wp-config-sample.php
+/wp-config.php
+/wp-cron.php
+/wp-links-opml.php
+/wp-load.php
+/wp-login.php
+/wp-mail.php
+/wp-settings.php
+/wp-signup.php
+/wp-trackback.php
+/xmlrpc.php
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*~
+nbproject/
+
+# Composer
+vendor/
+composer.lock
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files
+build/
+dist/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Local WordPress environment files (e.g., Local by Flywheel, VVV)
+wp-config-local.php
+local-config.php
+
+# WooCommerce specific
+*.csv
+*.log
+
+# Plugin specific build artifacts (if any in the future)
+# /release/
+# /packaged/

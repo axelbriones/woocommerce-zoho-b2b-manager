@@ -1,0 +1,4 @@
+This is a placeholder for b2b-icon.png.
+It should be an icon representing B2B features, possibly for use in admin menus or UI elements.
+Dimensions: e.g., 20x20 or 32x32 pixels.
+Format: PNG with transparency.

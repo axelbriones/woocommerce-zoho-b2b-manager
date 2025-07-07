@@ -1,0 +1,5 @@
+This is a placeholder for logo.png.
+This would be the main logo for the "WooCommerce Zoho B2B Manager" plugin.
+It might be used in the plugin's admin settings pages or promotional material.
+Dimensions: e.g., 128x128 or 256x256 pixels for WordPress plugin header (readme.txt banner).
+Format: PNG.

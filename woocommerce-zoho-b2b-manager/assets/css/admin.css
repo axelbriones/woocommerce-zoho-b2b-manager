@@ -1,0 +1,23 @@
+/**
+ * Admin-specific CSS for WooCommerce Zoho B2B Manager.
+ *
+ * @link       https://example.com/woocommerce-zoho-b2b-manager
+ * @since      1.0.0
+ */
+
+/* Styles for plugin settings pages, meta boxes, etc. */
+/* Example:
+.wczb2b-settings-table th {
+    width: 200px;
+}
+
+.wczb2b-applications-list .column-status span.pending {
+    color: orange;
+}
+.wczb2b-applications-list .column-status span.approved {
+    color: green;
+}
+.wczb2b-applications-list .column-status span.rejected {
+    color: red;
+}
+*/

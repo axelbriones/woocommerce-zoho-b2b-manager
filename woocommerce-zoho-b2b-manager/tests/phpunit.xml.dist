@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="bootstrap.php"
+    backupGlobals="false"
+    colors="true"
+    convertErrorsToExceptions="true"
+    convertNoticesToExceptions="true"
+    convertWarningsToExceptions="true"
+    processIsolation="false"
+    stopOnFailure="false">
+    <testsuites>
+        <testsuite name="WooCommerce Zoho B2B Manager Test Suite">
+            <directory suffix=".php">./</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist processUncoveredFilesFromWhitelist="true">
+            <directory suffix=".php">../includes</directory>
+            <directory suffix=".php">../admin</directory>
+            <directory suffix=".php">../public</directory>
+            <exclude>
+                <directory suffix=".php">../vendor</directory>
+                <directory suffix=".php">../node_modules</directory>
+            </exclude>
+        </whitelist>
+    </filter>
+    <php>
+        <ini name="display_errors" value="On" />
+        <ini name="error_reporting" value="E_ALL" />
+        <!-- Define WordPress constants if running tests outside of a WP environment setup utility -->
+        <!-- <const name="ABSPATH" value="/path/to/wordpress/" /> -->
+        <!-- <const name="WP_DEBUG" value="true" /> -->
+        <!-- <const name="WP_PLUGIN_DIR" value="/path/to/wordpress/wp-content/plugins/" /> -->
+    </php>
+</phpunit>
