@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:       WooCommerce Zoho B2B Manager
- * Plugin URI:        https://example.com/woocommerce-zoho-b2b-manager
+ * Plugin URI:        https://bbrion.es/woocommerce-zoho-b2b-manager
  * Description:       Extends WooCommerce with B2B/B2C functionalities and integrates with Zoho, complementing the WooCommerce Zoho Integration plugin.
  * Version:           1.0.0
- * Author:            Your Name or Company
- * Author URI:        https://example.com/
+ * Author:            Byron Briones
+ * Author URI:        https://bbrion.es/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       wc-zoho-b2b

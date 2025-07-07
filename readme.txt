@@ -1,6 +1,6 @@
 === WooCommerce Zoho B2B Manager ===
-Contributors: (Your Name or Company)
-Donate link: https://example.com/donate
+Contributors: Byron Briones
+Donate link: https://bbrion.es/donate
 Tags: woocommerce, zoho, b2b, ecommerce
 Requires at least: 6.0
 Tested up to: 6.4
